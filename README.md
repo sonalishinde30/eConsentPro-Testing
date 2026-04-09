@@ -1,33 +1,33 @@
-# LoanHub - Loan Lifecycle Management System (QA Project)
+# eConsentPro - Digital Patient Consent Management (QA Project)
 
 ## Project Overview
-LoanHub is an end-to-end loan lifecycle management system used for retail and corporate banking operations.
+eConsentPro is a secure digital platform developed for GE Healthcare to manage patient consent processes digitally. It replaces traditional paper-based consent forms with a fully electronic workflow.
 
 ## Features
-- Loan application processing
-- Credit scoring and approval workflows
-- EMI calculations and repayment tracking
-- Foreclosure and NPA management
-
-## Client
-IndusInd Bank
+- Secure form upload and storage
+- Multilingual consent forms
+- Electronic signature integration
+- Document version control
+- Data locking and audit trails
+- HIPAA & FDA compliance support
 
 ## My Role
-Software QA Engineer
+Software Test Engineer
 
 ## Responsibilities
-- Analysed FSD and prepared Test Plans, Test Scenarios, and Test Cases
+- Prepared Test Plan, Test Scenarios, and Test Cases based on FSD
 - Performed Manual and Automation Testing
-- Executed Functional, Smoke, Sanity, Regression, Cross-browser testing
-- Built Hybrid Automation Framework using Selenium, Java, TestNG, Maven, Jenkins
+- Executed Functional, Regression, Cross-browser testing
+- Conducted Mobile and Web Application Testing
 - Performed API Testing using Postman
-- Logged and tracked defects using Jira
+- Identified and tracked defects using Jira
+- Selected test cases for automation and executed test suites
 
 ## Tools & Technologies
-- Selenium, Java, TestNG, Maven, Jenkins
-- Postman
-- Jira
-- SQL (Basic)
+- Selenium, Java, TestNG
+- Postman (API Testing)
+- Jira (Bug Tracking)
+- Manual Testing
 
 ## Outcome
-Validated complex financial workflows ensuring accuracy in EMI calculations, loan processing, and system stability.
+Ensured high-quality delivery by identifying defects early, improving system reliability, and validating compliance requirements.
